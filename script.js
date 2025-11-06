@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const helloBtn = document.getElementById("helloBtn");
   helloBtn.addEventListener("click", () => {
-    alert("สวัสดีครับ ยินดีต้อนรับสู่เว็บไซต์ของคุณบน GitHub Pages 🎉");
+    alert("สวัสดีครับ ผมก้องเองครับ 🎉");
   });
 });
+
